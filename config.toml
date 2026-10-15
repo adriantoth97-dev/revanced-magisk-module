@@ -38,6 +38,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 dpi = "120-640dpi"
 
 [GooglePhotos]
+enabled = true
 build-mode = "both"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
@@ -63,10 +64,12 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube]
-enabled = false
+enabled = true
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+exclusive-patches = true
+included-patches = ["Add more double tap to seek length options","Alternative thumbnails","Bypass URL redirects","Change form factor","Change start page","Check watch history domain name resolution","Copy video URL","Custom player overlay opacity","Disable auto captions","Disable fullscreen ambient mode","Disable player popup panels","Disable resuming Shorts on startup","Disable video codecs","Enable debugging","Force original audio","Hide Shorts components","Hide ads","Hide autoplay preview","Hide end screen cards","Hide end screen suggested video","Hide info cards","Hide layout components","Hide player flyout menu items","Hide player overlay buttons","Hide related video overlay","Hide video action buttons","Miniplayer","Navigation bar","Pause on audio interrupt","Playback speed","Remove background playback restrictions","Return YouTube Dislike","Sanitize sharing links","Seekbar","SponsorBlock","Spoof app version","Spoof device dimensions","Spoof video streams","Theme","Video ads","Video quality"]
 
 [Twitch]
 enabled = false
