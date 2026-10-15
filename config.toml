@@ -66,6 +66,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 [YouTube]
 enabled = true
 build-mode = "both"
+patches-source = "Inotia00/revanced-patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 exclusive-patches = true
