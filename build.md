@@ -13,6 +13,10 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 Patches: crimera/piko-newx/patches-3.56.1.mpp  
 [Changelog](https://github.com/crimera/piko-newx/releases/tag/v3.56.1)
 
+Patches: Inotia00/revanced-patches/patches-5.14.1.rvp  
+[Changelog](https://github.com/Inotia00/revanced-patches/releases/tag/v5.14.1)
+
+CLI: ReVanced/revanced-cli/revanced-cli-6.0.0-all.jar  
 Patches: MorpheApp/morphe-patches/patches-1.47.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0)
 
